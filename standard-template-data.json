@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.3.0",
-    "generatedAt": "2026-03-26T00:33:24.264Z",
+    "version": "1.4.0",
+    "generatedAt": "2026-03-26T01:00:47.803Z",
     "templateType": "full_banner_accordion",
     "propertyId": "1e007377-e6a0-4daa-afff-7c6c71c6addc",
     "homepageId": "78b30ee6-f394-4fca-8a9c-f486a84643d6"
@@ -351,7 +351,7 @@
   ],
   "homepage": {
     "domain": "ujinpoolvilla.kr",
-    "templateType": "full_banner_accordion",
+    "templateType": "fullpage_visual",
     "images": [
       {
         "logo": []
@@ -369,7 +369,7 @@
           "sections": [
             {
               "hero": {
-                "title": " ",
+                "title": "Your Private Moment in Gangneung",
                 "images": [
                   {
                     "id": "1a930af4-6e0a-4175-99de-0cb8ce74467b",
@@ -428,7 +428,7 @@
                     "isSelected": true
                   }
                 ],
-                "description": " "
+                "description": "강릉 우진풀빌라"
               },
               "closing": {
                 "title": " ",
@@ -450,78 +450,41 @@
                     "id": "08fa81b1-f915-4a6a-8c13-afd40651870f",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_essence/1774404598404-2mftvdto15v.jpg",
                     "sortOrder": 0,
-                    "description": "",
-                    "isSelected": true
-                  }
-                ],
-                "description": "단독독채 풀빌라로\n온가족이 즐길 수 있는\n다양한 시설이 마련되어 있습니다.\n\n마당에는 반려견과 아이들이\n뛰어놀수있는 넓은 마당과\n빔프로젝터로 영화를 감상하며\n풀장에서 즐거운 물놀이도\n즐길 수 있는 공간"
-              },
-              "gallery": {
-                "title": "우진풀빌라 미리보기",
-                "images": [
-                  {
-                    "id": "00ebd483-e989-45e6-a12f-2e162162d519",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_gallery/1774405302924-susetk669lo.jpg",
-                    "sortOrder": 0,
-                    "description": "",
+                    "description": "단독독채 풀빌라로\n온가족이 즐길 수 있는\n다양한 시설이 마련되어 있습니다.\n25년 신축건물로\n깨끗한 환경을 즐길수 있다\n마당에는 반려견과 아이들이\n뛰어놀수있는 넓은 마당과\n빔프로젝터로 영화를 감상하며\n풀장에서 즐거운 물놀이도\n즐길 수 있는 공간",
                     "isSelected": true
                   },
                   {
-                    "id": "8faaeeea-7062-4ca5-a142-9f7c49679f3b",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_gallery/1774405302924-b3ss1cmtn8.jpg",
+                    "id": "96d67881-0a4e-4cb2-bc69-5a134208a38c",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_essence/1774485735314-jjojb02fol.jpg",
                     "sortOrder": 1,
                     "description": "",
                     "isSelected": true
                   },
                   {
-                    "id": "13f2e63a-47c6-46d2-83a3-3c739c9450dd",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_gallery/1774405302924-18avb522pt6.jpg",
+                    "id": "4734cc1d-ed69-4580-a20f-a9c6c43475e8",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_essence/1774485735315-9t7w3urbq7.jpg",
                     "sortOrder": 2,
                     "description": "",
                     "isSelected": true
                   },
                   {
-                    "id": "e1f23efc-f9ee-4473-8d9b-2fc18c9eb15c",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_gallery/1774405302924-gd4zcvmvopg.jpg",
+                    "id": "14b46f5f-c357-47aa-abf5-3b027fd453e4",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_essence/1774485735315-bysnmkth8ut.jpg",
                     "sortOrder": 3,
                     "description": "",
                     "isSelected": true
-                  },
-                  {
-                    "id": "18a6caf0-d861-412b-be82-6938faedc03e",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_gallery/1774405302924-i0uqpvvz95a.jpg",
-                    "sortOrder": 4,
-                    "description": "",
-                    "isSelected": true
                   }
                 ],
+                "description": "Ujin Poolvilla, \nWhere Your Stay \nBecomes a Memory"
+              },
+              "gallery": {
+                "title": "우진풀빌라 미리보기",
+                "images": [],
                 "description": "우진풀빌라에서의 다양하게 즐길거리를 미리 살펴보세요"
               },
               "signature": {
-                "title": "Specials Offer",
-                "images": [
-                  {
-                    "id": "d56466e2-f03f-4e15-8d6f-b96312383406",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_signature/1774405666823-a5qqu91jgsm.jpg",
-                    "sortOrder": 0,
-                    "description": "",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "d13ff4c7-1072-4c30-9b8a-d58d12791ab7",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_signature/1774405666823-qaslng6rsfs.jpg",
-                    "sortOrder": 1,
-                    "description": "",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "9ce5e943-4927-4046-a18d-e53fc8e8a94e",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_signature/1774405666823-gnk8atz7s8w.jpg",
-                    "sortOrder": 2,
-                    "description": "",
-                    "isSelected": true
-                  }
-                ],
+                "title": "",
+                "images": [],
                 "description": " "
               }
             }
@@ -531,8 +494,30 @@
           "sections": [
             {
               "hero": {
-                "title": "",
-                "images": []
+                "title": "Direction",
+                "images": [
+                  {
+                    "id": "2ea92b4b-6921-4d86-ab01-f19525765644",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/directions_hero/1774486471057-hkf59texg5g.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "2de8f920-3d11-4d71-908f-0aa731d3fc14",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/directions_hero/1774486471057-cb5go2mee3.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "e0ed0bb4-bf7a-4264-9abb-2903d5154cf0",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/directions_hero/1774486471057-poirq0h52v.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ]
               },
               "notice": {
                 "title": "",
@@ -545,7 +530,7 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": "Prologue",
                 "images": [
                   {
                     "id": "32a3bfc7-d46e-4998-8753-901064c77051",
@@ -567,8 +552,16 @@
                     "sortOrder": 2,
                     "description": "",
                     "isSelected": true
+                  },
+                  {
+                    "id": "dd7a81da-964e-4d6f-869a-cf553e7fdf76",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/main_hero/1774486471057-2g55r3vo2qx.jpg",
+                    "sortOrder": 3,
+                    "description": "",
+                    "isSelected": true
                   }
-                ]
+                ],
+                "description": "우진풀빌라에서 프라이빗한 쉼과 편안한 여유를 함께 느껴보세요"
               },
               "about": []
             }
@@ -742,8 +735,8 @@
           "id": "9b2cb98a-de3e-46c9-94d5-280a1c3e1b99",
           "images": [
             {
-              "id": "9393dfe4-06ae-48ac-af68-5a8ea41229b7",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/roomtype_thumbnail/1774404421064-k0w5ldmc3p.jpg",
+              "id": "db03049a-4d83-438b-acef-163a265924ea",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/roomtype_thumbnail/1774485918848-fav45jcgp9c.jpg",
               "sortOrder": 0,
               "description": "",
               "isSelected": true,
@@ -958,28 +951,10 @@
               "category": "roomtype_interior"
             },
             {
-              "id": "dec8e880-acd2-4511-ba00-209d12582cb2",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/roomtype_exterior/1774404421065-jbw0uvzr6n.jpg",
-              "sortOrder": 0,
-              "description": "",
-              "isSelected": true,
-              "blockId": "9b2cb98a-de3e-46c9-94d5-280a1c3e1b99",
-              "category": "roomtype_exterior"
-            },
-            {
               "id": "796e25a0-0b2b-4ca9-b7a7-d6cfb64255ad",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/roomtype_exterior/1774404421065-olnr61ld02k.jpg",
-              "sortOrder": 1,
-              "description": "",
-              "isSelected": true,
-              "blockId": "9b2cb98a-de3e-46c9-94d5-280a1c3e1b99",
-              "category": "roomtype_exterior"
-            },
-            {
-              "id": "f7975a9b-1198-4c26-b4ec-510d7a0db5a2",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/roomtype_exterior/1774404421065-gvw9gc362gn.jpg",
-              "sortOrder": 2,
-              "description": "",
+              "sortOrder": 0,
+              "description": "객실내부",
               "isSelected": true,
               "blockId": "9b2cb98a-de3e-46c9-94d5-280a1c3e1b99",
               "category": "roomtype_exterior"
@@ -987,8 +962,35 @@
             {
               "id": "c7f1ea2a-3dc1-4d28-8d3a-5af785eee4db",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/roomtype_exterior/1774404421065-z5538a975il.jpg",
+              "sortOrder": 1,
+              "description": "침실",
+              "isSelected": true,
+              "blockId": "9b2cb98a-de3e-46c9-94d5-280a1c3e1b99",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "dec8e880-acd2-4511-ba00-209d12582cb2",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/roomtype_exterior/1774404421065-jbw0uvzr6n.jpg",
+              "sortOrder": 2,
+              "description": "노래방",
+              "isSelected": true,
+              "blockId": "9b2cb98a-de3e-46c9-94d5-280a1c3e1b99",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "f7975a9b-1198-4c26-b4ec-510d7a0db5a2",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/roomtype_exterior/1774404421065-gvw9gc362gn.jpg",
               "sortOrder": 3,
-              "description": "",
+              "description": "배드민턴",
+              "isSelected": true,
+              "blockId": "9b2cb98a-de3e-46c9-94d5-280a1c3e1b99",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "dd9ff7d6-e6d2-4b4e-ae4d-618e642bcc84",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/roomtype_exterior/1774486785271-s82ib5utoj.jpg",
+              "sortOrder": 4,
+              "description": "피아노",
               "isSelected": true,
               "blockId": "9b2cb98a-de3e-46c9-94d5-280a1c3e1b99",
               "category": "roomtype_exterior"
@@ -996,6 +998,7 @@
           ]
         }
       ]
-    }
+    },
+    "id": "78b30ee6-f394-4fca-8a9c-f486a84643d6"
   }
 }
