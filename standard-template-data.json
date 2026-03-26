@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.8.0",
-    "generatedAt": "2026-03-26T01:38:17.463Z",
+    "version": "1.9.0",
+    "generatedAt": "2026-03-26T01:41:25.670Z",
     "templateType": "fullpage_visual",
     "propertyId": "1e007377-e6a0-4daa-afff-7c6c71c6addc",
     "homepageId": "78b30ee6-f394-4fca-8a9c-f486a84643d6"
@@ -617,6 +617,53 @@
                   ],
                   "blockId": "2c96e1ec-12df-4e39-a0cf-30b49dcc230e",
                   "description": "프라이빗하게 즐기는 단독 독채 풀빌라\n오직 우리만을 위한 여유로운 쉼\n방해 없이 머무는 편안한 휴식 공간"
+                },
+                {
+                  "title": "Special Offer",
+                  "images": [
+                    {
+                      "id": "78b93d3b-b520-4de5-944b-c4cb079a14f5",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/main_about/1774489267608-2lzv32r3bqg.jpg",
+                      "sortOrder": 5,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "ac9494da-0aac-407f-9b81-d6dbf699dde2"
+                    },
+                    {
+                      "id": "2bb4eea7-dafb-4c4c-9124-324b4672de9a",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/main_about/1774489267609-wq2gx9odwyk.jpg",
+                      "sortOrder": 6,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "ac9494da-0aac-407f-9b81-d6dbf699dde2"
+                    },
+                    {
+                      "id": "82409d09-d282-4f9d-ba97-8eb6630c9ec6",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/main_about/1774489267610-vyo0ze4irr.jpg",
+                      "sortOrder": 7,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "ac9494da-0aac-407f-9b81-d6dbf699dde2"
+                    },
+                    {
+                      "id": "5ee2a774-99bd-4968-9118-2315d6607272",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/main_about/1774489267610-oxjx4i33g4.jpg",
+                      "sortOrder": 8,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "ac9494da-0aac-407f-9b81-d6dbf699dde2"
+                    },
+                    {
+                      "id": "6ac9db15-5788-4e70-ac6c-98a7685750dc",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/main_about/1774489267610-jcw18gxc7uo.jpg",
+                      "sortOrder": 9,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "ac9494da-0aac-407f-9b81-d6dbf699dde2"
+                    }
+                  ],
+                  "blockId": "ac9494da-0aac-407f-9b81-d6dbf699dde2",
+                  "description": "다양한 부대시설이 준비되어 있어\n지루할 틈이 없는 강릉에서의 하루"
                 }
               ]
             }
