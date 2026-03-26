@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.13.0",
-    "generatedAt": "2026-03-26T08:37:15.030Z",
+    "version": "1.14.0",
+    "generatedAt": "2026-03-26T09:21:04.489Z",
     "templateType": "fullpage_visual",
     "propertyId": "1e007377-e6a0-4daa-afff-7c6c71c6addc",
     "homepageId": "78b30ee6-f394-4fca-8a9c-f486a84643d6"
@@ -172,8 +172,8 @@
       {
         "id": "259a2d78-2d0d-45c0-92b7-456222461103",
         "name": "노래방",
-        "description": "- 이용요금 : 무료\n- 이용시간 : 입실후~22시까지",
-        "usageGuide": "흥겨운 시간을 즐길 수 있는 노래방 공간입니다.",
+        "description": "흥겨운 시간을 즐길 수 있는 노래방 공간입니다.",
+        "usageGuide": "- 이용요금 : 무료\n- 이용시간 : 입실후~22시까지",
         "displayOrder": 105,
         "images": [
           {
@@ -354,7 +354,15 @@
     "templateType": "fullpage_visual",
     "images": [
       {
-        "logo": []
+        "logo": [
+          {
+            "id": "4a829124-6506-4e84-87f1-1413134e2dd3",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/logo/1774516717925-2xgcb4w1o05.png",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       }
     ],
     "seo": {
