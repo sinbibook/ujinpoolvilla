@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.6.0",
-    "generatedAt": "2026-03-26T01:08:18.699Z",
+    "version": "1.7.0",
+    "generatedAt": "2026-03-26T01:27:59.667Z",
     "templateType": "fullpage_visual",
     "propertyId": "1e007377-e6a0-4daa-afff-7c6c71c6addc",
     "homepageId": "78b30ee6-f394-4fca-8a9c-f486a84643d6"
@@ -400,30 +400,37 @@
                     "isSelected": true
                   },
                   {
+                    "id": "17536ae6-bbcb-404c-9887-d2685ed72874",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_hero/1774488210715-38e66m1gvah.jpg",
+                    "sortOrder": 4,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
                     "id": "7ae0a9cb-e421-4612-a1af-a5cf51d15c7a",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_hero/1774404154652-3eil681xcz.jpg",
-                    "sortOrder": 4,
+                    "sortOrder": 5,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "f69cc307-c1bf-4f9d-b106-4fecceabb328",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_hero/1774404154652-oy8oxf45edk.jpg",
-                    "sortOrder": 5,
+                    "sortOrder": 6,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "afcd04be-9545-4806-9393-f910687d9bf7",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_hero/1774404154652-rodubujdkjs.jpg",
-                    "sortOrder": 6,
+                    "sortOrder": 7,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "bc724fde-497d-4c1f-b5c2-246892fd7210",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_hero/1774404757712-pqf3leqbye.jpg",
-                    "sortOrder": 7,
+                    "sortOrder": 8,
                     "description": "",
                     "isSelected": true
                   }
@@ -450,12 +457,12 @@
                     "id": "08fa81b1-f915-4a6a-8c13-afd40651870f",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_essence/1774404598404-2mftvdto15v.jpg",
                     "sortOrder": 0,
-                    "description": "단독독채 풀빌라로\n온가족이 즐길 수 있는\n다양한 시설이 마련되어 있습니다.\n25년 신축건물로\n깨끗한 환경을 즐길수 있다\n마당에는 반려견과 아이들이\n뛰어놀수있는 넓은 마당과\n빔프로젝터로 영화를 감상하며\n풀장에서 즐거운 물놀이도\n즐길 수 있는 공간",
+                    "description": "프라이빗하게 즐기는 단독 독채 풀빌라\n오직 우리만을 위한 여유로운 쉼\n방해 없이 머무는 편안한 휴식 공간",
                     "isSelected": true
                   },
                   {
-                    "id": "96d67881-0a4e-4cb2-bc69-5a134208a38c",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_essence/1774485735314-jjojb02fol.jpg",
+                    "id": "16836f00-3ded-40cc-9e2c-4d6c82392865",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_essence/1774488453018-tpvdup3v8cf.jpg",
                     "sortOrder": 1,
                     "description": "",
                     "isSelected": true
@@ -646,7 +653,7 @@
         },
         "color": {
           "primary": "#e8ebe6",
-          "secondary": "#7a8471"
+          "secondary": "#5E6756"
         }
       },
       "popup": {
@@ -1036,6 +1043,7 @@
           ]
         }
       ]
-    }
+    },
+    "id": "78b30ee6-f394-4fca-8a9c-f486a84643d6"
   }
 }

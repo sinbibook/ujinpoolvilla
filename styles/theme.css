@@ -10,11 +10,18 @@
   font-display: swap;
 }
 
+@font-face {
+    font-family: 'Pretendard';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/pretendard@1.0/Pretendard-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-display: swap;
+}
+
 /* CSS Variables */
 :root {
   --font-ko-main: 'Cafe24Gowoonbam', sans-serif;
   --font-ko-sub: 'Pretendard', sans-serif;
   --font-en-main: 'Cormorant', sans-serif;
   --color-primary: #e8ebe6;
-  --color-secondary: #7a8471;
+  --color-secondary: #5E6756;
 }
