@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.9.0",
-    "generatedAt": "2026-03-26T01:41:25.670Z",
+    "version": "1.10.0",
+    "generatedAt": "2026-03-26T01:43:45.111Z",
     "templateType": "fullpage_visual",
     "propertyId": "1e007377-e6a0-4daa-afff-7c6c71c6addc",
     "homepageId": "78b30ee6-f394-4fca-8a9c-f486a84643d6"
@@ -663,7 +663,7 @@
                     }
                   ],
                   "blockId": "ac9494da-0aac-407f-9b81-d6dbf699dde2",
-                  "description": "다양한 부대시설이 준비되어 있어\n지루할 틈이 없는 강릉에서의 하루"
+                  "description": "부대시설까지 알차게 갖춰져 있어 \n머무는 시간이 더욱 즐거운 공간"
                 }
               ]
             }
@@ -701,8 +701,8 @@
                     "isSelected": true
                   },
                   {
-                    "id": "09309f4f-2c5f-4b1b-9894-81ccb601c9fd",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/reservation_hero/1774487089484-k2n7ulismme.jpg",
+                    "id": "4ba1ca93-6d01-4c5d-9f9b-15d1cace2f4b",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/reservation_hero/1774489415738-1r1nojzyg51.jpg",
                     "sortOrder": 1,
                     "description": "",
                     "isSelected": true
@@ -711,6 +711,13 @@
                     "id": "fc4e074b-64f3-476d-9e36-e07849582849",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/reservation_hero/1774487089484-pn75myityv.jpg",
                     "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "74401301-d055-4ed8-b2ca-e32934f6509c",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/reservation_hero/1774489415739-warw0a3tu7f.jpg",
+                    "sortOrder": 3,
                     "description": "",
                     "isSelected": true
                   }
