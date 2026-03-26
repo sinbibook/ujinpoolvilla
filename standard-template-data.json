@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.7.0",
-    "generatedAt": "2026-03-26T01:27:59.667Z",
+    "version": "1.8.0",
+    "generatedAt": "2026-03-26T01:38:17.463Z",
     "templateType": "fullpage_visual",
     "propertyId": "1e007377-e6a0-4daa-afff-7c6c71c6addc",
     "homepageId": "78b30ee6-f394-4fca-8a9c-f486a84643d6"
@@ -464,7 +464,7 @@
                     "id": "16836f00-3ded-40cc-9e2c-4d6c82392865",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_essence/1774488453018-tpvdup3v8cf.jpg",
                     "sortOrder": 1,
-                    "description": "",
+                    "description": "2025년 8월 새롭게 오픈한 신축 펜션\n깨끗하고 쾌적하게 머무는 편안한 공간\n깔끔한 인테리어가 돋보이는 감성적인 분위기",
                     "isSelected": true
                   },
                   {
@@ -570,7 +570,55 @@
                 ],
                 "description": "우진풀빌라에서 프라이빗한 쉼과 편안한 여유를 함께 느껴보세요"
               },
-              "about": []
+              "about": [
+                {
+                  "title": "단독 독채 풀빌라",
+                  "images": [
+                    {
+                      "id": "e727eff9-058a-406d-8847-01f5e06632ea",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/main_about/1774488693651-7tyktoa4t0q.jpg",
+                      "sortOrder": 0,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "2c96e1ec-12df-4e39-a0cf-30b49dcc230e"
+                    },
+                    {
+                      "id": "266f2a07-f360-40b1-a5d4-efe8d282cc22",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/main_about/1774488693651-sgyfes1ljn.jpg",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "2c96e1ec-12df-4e39-a0cf-30b49dcc230e"
+                    },
+                    {
+                      "id": "298dc230-5518-4d1d-88ef-39fbc4d4d0d6",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/main_about/1774488693651-7r6puq576va.jpg",
+                      "sortOrder": 2,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "2c96e1ec-12df-4e39-a0cf-30b49dcc230e"
+                    },
+                    {
+                      "id": "ad0b5269-799b-47b3-b663-24392d4d72e4",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/main_about/1774488693651-osfzdcp6con.jpg",
+                      "sortOrder": 3,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "2c96e1ec-12df-4e39-a0cf-30b49dcc230e"
+                    },
+                    {
+                      "id": "85a81f57-bc22-476d-9f23-0fd91399d424",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/main_about/1774488693651-3rg2wqnpodx.jpg",
+                      "sortOrder": 4,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "2c96e1ec-12df-4e39-a0cf-30b49dcc230e"
+                    }
+                  ],
+                  "blockId": "2c96e1ec-12df-4e39-a0cf-30b49dcc230e",
+                  "description": "프라이빗하게 즐기는 단독 독채 풀빌라\n오직 우리만을 위한 여유로운 쉼\n방해 없이 머무는 편안한 휴식 공간"
+                }
+              ]
             }
           ]
         },
