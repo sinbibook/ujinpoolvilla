@@ -1,1 +1,1 @@
-# ujinpoolvilla
+# template-full-banner-accordion Template

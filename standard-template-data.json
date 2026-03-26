@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-03-25T04:06:26.120Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-03-26T00:30:41.841Z",
     "templateType": "full_banner_accordion",
     "propertyId": "1e007377-e6a0-4daa-afff-7c6c71c6addc",
     "homepageId": "78b30ee6-f394-4fca-8a9c-f486a84643d6"
@@ -546,7 +546,29 @@
             {
               "hero": {
                 "title": "",
-                "images": []
+                "images": [
+                  {
+                    "id": "32a3bfc7-d46e-4998-8753-901064c77051",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/main_hero/1774484876104-adq6knk467.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "4ca7f1f8-894a-4cff-b264-14bf7eb9f9be",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/main_hero/1774484876105-veq2tvd21q.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "751cd2e5-7d2c-4c25-8c54-0cc82519a526",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/main_hero/1774484876105-yhkhpqi04uc.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ]
               },
               "about": []
             }
@@ -569,9 +591,6 @@
             }
           ]
         }
-      },
-      "popup": {
-        "popups": []
       },
       "theme": {
         "font": {
@@ -598,6 +617,9 @@
           "primary": "#e8ebe6",
           "secondary": "#7a8471"
         }
+      },
+      "popup": {
+        "popups": []
       },
       "property": {
         "images": [
@@ -974,7 +996,6 @@
           ]
         }
       ]
-    },
-    "id": "78b30ee6-f394-4fca-8a9c-f486a84643d6"
+    }
   }
 }
