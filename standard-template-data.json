@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.23.0",
-    "generatedAt": "2026-08-27T06:41:36.214716109Z",
+    "version": "1.24.0",
+    "generatedAt": "2026-08-27T06:44:10.879651807Z",
     "templateType": "fullpage_visual",
     "propertyId": "1e007377-e6a0-4daa-afff-7c6c71c6addc",
     "homepageId": "78b30ee6-f394-4fca-8a9c-f486a84643d6"
@@ -9,6 +9,7 @@
   "property": {
     "id": "1e007377-e6a0-4daa-afff-7c6c71c6addc",
     "name": "강릉 우진풀빌라",
+    "nameEn": "Gangneung Ujin Pool Villa",
     "description": "독채형 구조로 프라이빗한 공간에서 머물 수 있는 이곳은 강릉 우진풀빌라 입니다.",
     "subtitle": "",
     "address": "강원특별자치도 강릉시 사천면 방동길 125 우진풀빌라",
@@ -25,6 +26,9 @@
     "reservationGuide": "[펜션 이용 안내 사항]\n- 기준 인원을 제외한 추가 인원(방문객 포함)은 추가 요금이 발생됩니다.(현장 결제)\n- 미성년자는 보호자 동반 없이 입실이 불가합니다.\n- 객실 내 고기 및 생선 등 냄새나는 요리는 금지입니다.\n- 객실 내에서는 화재위험물질 (화약, 폭죽 등)은 사용 하실 수 없습니다 (화재로 인한 책임은 이용자에게 있습니다)\n- 쓰레기는 지정된 장소에 분리수거 해주시며, 사용하신 식기는 세척 부탁드립니다.",
     "province": "강원특별자치도",
     "city": "강릉시",
+    "domain": "ujinpoolvilla.kr",
+    "realtimeBookingId": "https://map.naver.com/p/entry/place/2027562202",
+    "ybsId": "79803",
     "amenities": [
       "흡연구역(지정장소)",
       "주차장"
@@ -47,8 +51,7 @@
       "businessEmail": "",
       "businessType": "corporate",
       "businessCategory": "숙박업",
-      "eCommerceRegistrationNumber": "",
-      "ecommerceRegistrationNumber": ""
+      "eCommerceRegistrationNumber": ""
     },
     "contractInfo": {
       "contractStartDate": "2025-09-10T00:00:00.000Z",
@@ -464,11 +467,7 @@
         "surrounding": [ ],
         "commonArea": [ ]
       }
-    ],
-    "nameEn": "Gangneung Ujin Pool Villa",
-    "domain": "ujinpoolvilla.kr",
-    "realtimeBookingId": "https://map.naver.com/p/entry/place/2027562202",
-    "ybsId": "79803"
+    ]
   },
   "rooms": [
     {
@@ -795,6 +794,7 @@
     }
   ],
   "homepage": {
+    "id": "78b30ee6-f394-4fca-8a9c-f486a84643d6",
     "domain": "ujinpoolvilla.kr",
     "templateType": "fullpage_visual",
     "images": [
@@ -1292,15 +1292,24 @@
             }
           ]
         },
-        "layoutMap": {
+        "nearbyAttractions": {
           "sections": [ ]
         },
-        "nearbyAttractions": {
+        "layoutMap": {
           "sections": [ ]
         }
       },
+      "popup": {
+        "popups": [ ]
+      },
       "theme": {
         "font": {
+          "koMain": {
+            "cdn": null,
+            "key": "cafe24gowoonbam",
+            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.1/Cafe24Oneprettynight.woff",
+            "family": "Cafe24Gowoonbam"
+          },
           "koSub": {
             "cdn": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css",
             "key": "pretendard",
@@ -1312,12 +1321,6 @@
             "key": "cormorant",
             "woff2": null,
             "family": "Cormorant"
-          },
-          "koMain": {
-            "cdn": null,
-            "key": "cafe24gowoonbam",
-            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.1/Cafe24Oneprettynight.woff",
-            "family": "Cafe24Gowoonbam"
           }
         },
         "color": {
@@ -1325,10 +1328,8 @@
           "secondary": "#5E6756"
         }
       },
-      "popup": {
-        "popups": [ ]
-      },
       "property": {
+        "name": "강릉 우진풀빌라",
         "images": [
           {
             "id": "7d01d87a-e132-4821-826f-02765e483372",
@@ -1412,7 +1413,6 @@
             "category": "property_exterior"
           }
         ],
-        "name": "강릉 우진풀빌라",
         "nameEn": "Gangneung Ujin Pool Villa"
       },
       "roomtypes": [
@@ -1710,7 +1710,6 @@
           ]
         }
       ]
-    },
-    "id": "78b30ee6-f394-4fca-8a9c-f486a84643d6"
+    }
   }
 }
