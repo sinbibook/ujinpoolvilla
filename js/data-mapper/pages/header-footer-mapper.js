@@ -274,7 +274,8 @@ class HeaderFooterMapper extends BaseDataMapper {
         // 전화번호 매핑 - property.contactPhone 사용
         const footerPhone = this.safeSelect('[data-footer-phone]');
         if (footerPhone) {
-            const phoneNumber = this.safeGet(this.data, 'property.contactPhone');
+            // 배열/숫자로 내려오는 경우도 안전하게 문자열로 변환
+            const phoneNumber = this.sanitizeText(this.safeGet(this.data, 'property.contactPhone'));
             if (phoneNumber) {
                 footerPhone.textContent = phoneNumber;
             }
