@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.20.0",
-    "generatedAt": "2026-05-18T05:25:00.135376430Z",
+    "version": "1.21.0",
+    "generatedAt": "2026-08-27T05:32:04.419356974Z",
     "templateType": "fullpage_visual",
     "propertyId": "1e007377-e6a0-4daa-afff-7c6c71c6addc",
     "homepageId": "78b30ee6-f394-4fca-8a9c-f486a84643d6"
@@ -9,32 +9,32 @@
   "property": {
     "id": "1e007377-e6a0-4daa-afff-7c6c71c6addc",
     "name": "강릉 우진풀빌라",
-    "description": "",
+    "description": "독채형 구조로 프라이빗한 공간에서 머물 수 있는 이곳은 강릉 우진풀빌라 입니다.",
     "subtitle": "",
-    "address": "강원특별자치도 강릉시 사천면 방동길 125",
+    "address": "강원특별자치도 강릉시 사천면 방동길 125 우진풀빌라",
     "latitude": 37.8231078986122,
     "longitude": 128.859945518054,
-    "contactPhone": "010-3432-2940",
+    "contactPhone": [
+      "010-3432-2940"
+    ],
     "contactEmail": "",
     "checkin": "15:00",
     "checkout": "11:00",
-    "checkInOutInfo": "[입/퇴실 안내]\n- 입실시각: 15시\n- 퇴실시각: 11시\n※ 22시 이후 입실 시 펜션에 사전 문의 부탁드립니다.",
-    "usageGuide": "[펜션 이용 안내 사항]\n- 기준 인원을 제외한 추가 인원(방문객 포함)은 추가 요금이 발생됩니다.(현장 결제)\n- 미성년자는 보호자 동반 없이 입실이 불가합니다.\n- 객실 내 고기 및 생선 등 냄새나는 요리는 금지입니다.\n- 객실 내에서는 화재위험물질 (화약, 폭죽 등)은 사용 하실 수 없습니다 (화재로 인한 책임은 이용자에게 있습니다)\n- 쓰레기는 지정된 장소에 분리수거 해주시며, 사용하신 식기는 세척 부탁드립니다.\n\n[인원추가비(1박기준/현장결제)]\n- 0세~성인 1인 30,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n\n[개별바베큐]\n- 숯+그릴 : 30,000원 (1박기준/현장결제)\n※ 사전문의필수\n※ 숯/그릴 개인지참 불가\n※ 숯/그릴은 사전준비되어 있으며, 불만 직접 점화해 이용\n\n[야외 온수 수영장]\n- 미온수 이용요금 : 50,000원(1박기준/현장결제)\n- 냉수 이용요금 : 무료\n- 이용시간 : 입실시 ~ 제한없음\n- 이용복장 : 수영복, 래쉬가드\n※ 미온수이용시 사전신청필수\n\n[수영장 이용수칙]\n- 어린아이들의 경우 안전사고가 발생하지 않도록 부모님과 함께 입장하시기 바랍니다.\n- 수영장내 뛰거나 다이빙은 금지합니다.\n- 음주자, 심장 질환자는 수영장 이용을 금합니다.\n- 수영장 내에서는 취식및 음주를 금합니다.\n- 장난감, 입욕제, 물풍선 등 기타 이물질들은 수영장 내 여과기 고장 및 타일 변색의 원인이 되어 사용을 금합니다.\n\n[불멍]\n- 운영 요금 : 20,000원(1박기준/현장결제)\n- 장작 1망 제공\n※ 우천시 이용불가\n※ 개인 불멍 용품(화롯대, 연료 등) 지참: 불가\n※ 외부 장작 반입: 불가\n\n[노래방]\n- 이용요금 : 무료\n- 이용시간 : 입실후~22시까지\n\n[야외빔프로젝터]\n- 이용요금 : 무료\n- 이용시간 : 입실후~제한없음\n\n[애견동반 가능]\n- 이용 요금: 1마리 무료 / 2마리부터 20,000원 (1박기준/현장결제)\n- 제한 무게: 1마리당 최대 10kg 이하(소형견)\n- 제한 마릿수: 제한없음\n※ 애견 비품은 개별지참 하셔야 합니다. \n※ 사람 또는 반려견에게 심한 공격성을 보이거나 공격한 반려견은 입실 불가합니다.\n\n[편의시설]\n- WIFI 이용가능\n- 주차장 보유\n- 상비약 보유\n\n[오시는 길]\n ※ 네비게이션에 주소 또는 숙소명을 검색해주세요\n- 도로명 주소 : 강원 강릉시 사천면 방동길 125 우진풀빌라\n\n[주변관광지]\n- 사천해수욕장\n- 아르떼뮤지엄 강릉\n- 오죽헌",
-    "reservationGuide": "미성년자는 보호자 없이 예약 및 입실 불가하며, 위반 시 환불 없이 퇴실됩니다.\n객실 요금은 기준 인원 기준이며, 초과 시 추가 요금이 발생합니다.\n최대 인원 초과 시 입실 불가하며, 이로 인한 환불은 불가입니다. (유아, 어린이 포함)\n현장 추가 요금은 숙소 측에 사전 확인 바랍니다.\n수영장 등 부대시설은 날씨나 상황에 따라 이용이 제한될 수 있으니 사전 확인 바랍니다.\n당일 예약 후 취소 시 환불 불가하며, 늦은 시간 당일 예약 후 즉시 방문 시 입실 불가할 수 있으니 숙소 확인 후 예약해 주세요.\n취소 수수료는 구매처마다 다를 수 있습니다.\n시스템 오류로 인해 정상가와 다른 금액으로 예약이 진행된 경우, 부득이하게 예약이 취소될 수 있습니다.\n전 객실 금연이며, 흡연은 지정된 장소에서만 가능합니다.",
+    "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 펜션에 사전 문의 부탁드립니다.",
+    "usageGuide": "[공지사항]\n[펜션 이용 안내 사항]\n- 기준 인원을 제외한 추가 인원(방문객 포함)은 추가 요금이 발생됩니다.(현장 결제)\n- 미성년자는 보호자 동반 없이 입실이 불가합니다.\n- 객실 내 고기 및 생선 등 냄새나는 요리는 금지입니다.\n- 객실 내에서는 화재위험물질 (화약, 폭죽 등)은 사용 하실 수 없습니다 (화재로 인한 책임은 이용자에게 있습니다)\n- 쓰레기는 지정된 장소에 분리수거 해주시며, 사용하신 식기는 세척 부탁드립니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 펜션에 사전 문의 부탁드립니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n- 0세~성인 1인 30,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n\n[개별바베큐]\n[개별바베큐]\n- 숯+그릴 : 30,000원 (1박기준/현장결제)\n※ 사전문의필수\n※ 숯/그릴 개인지참 불가\n※ 숯/그릴은 사전준비되어 있으며, 불만 직접 점화해 이용\n\n[개별수영장]\n[야외 온수 수영장]\n- 미온수 이용요금 : 50,000원(1박기준/현장결제)\n- 냉수 이용요금 : 무료\n- 운영시간 : 입실후~제한없음\n- 이용복장 : 수영복, 래쉬가드\n※ 미온수이용시 사전신청필수\n\n[수영장 이용수칙]\n- 어린아이들의 경우 안전사고가 발생하지 않도록 부모님과 함께 입장하시기 바랍니다.\n- 수영장내 뛰거나 다이빙은 금지합니다.\n- 음주자, 심장 질환자는 수영장 이용을 금합니다.\n- 수영장 내에서는 취식및 음주를 금합니다.\n- 장난감, 입욕제, 물풍선 등 기타 이물질들은 수영장 내 여과기 고장 및 타일 변색의 원인이 되어 사용을 금합니다.\n\n[애견동반]\n[애견동반 가능]\n- 이용 요금: 1마리 무료 / 2마리부터 20,000원 (1박기준/현장결제)\n- 제한 무게: 1마리당 최대 10kg 이하(소형견)\n- 제한 마릿수: 제한없음\n※ 애견 비품은 개별지참 하셔야 합니다. \n※ 사람 또는 반려견에게 심한 공격성을 보이거나 공격한 반려견은 입실 불가합니다.\n\n[불멍]\n[불멍]\n- 운영 요금 : 20,000원(1박기준/현장결제)\n- 장작 1망 제공\n※ 우천시 이용불가\n※ 개인 불멍 용품(화롯대, 연료 등) 지참: 불가\n※ 외부 장작 반입: 불가\n\n[부대시설]\n[노래방]\n- 이용요금 : 무료\n- 이용시간 : 입실후~22시까지\n\n[야외빔프로젝터]\n- 이용요금 : 무료\n- 이용시간 : 입실후~제한없음\n\n[편의 및 주변 시설]\n[편의시설]\n- WIFI 이용가능\n- 주차장 보유\n- 상비약 보유\n\n[주변관광지]\n- 사천해수욕장\n- 아르떼뮤지엄 강릉\n- 오죽헌\n\n[교통편]\n강릉 아산병원과 인접해 있습니다.\n방동길766-1",
+    "reservationGuide": "[펜션 이용 안내 사항]\n- 기준 인원을 제외한 추가 인원(방문객 포함)은 추가 요금이 발생됩니다.(현장 결제)\n- 미성년자는 보호자 동반 없이 입실이 불가합니다.\n- 객실 내 고기 및 생선 등 냄새나는 요리는 금지입니다.\n- 객실 내에서는 화재위험물질 (화약, 폭죽 등)은 사용 하실 수 없습니다 (화재로 인한 책임은 이용자에게 있습니다)\n- 쓰레기는 지정된 장소에 분리수거 해주시며, 사용하신 식기는 세척 부탁드립니다.",
     "province": "강원특별자치도",
     "city": "강릉시",
-    "amenities": [ ],
+    "amenities": [
+      "흡연구역(지정장소)",
+      "주차장"
+    ],
     "nearbyAttractions": [
-      "산",
-      "맛집"
+      "일출/일몰",
+      "해수욕장"
     ],
     "services": [ ],
-    "propertyThemes": [
-      "산뷰",
-      "힐링",
-      "가족",
-      "반려동물동반"
-    ],
+    "propertyThemes": [ ],
     "propertyTypes": [
       "펜션"
     ],
@@ -44,8 +44,8 @@
       "representativeName": "김우진",
       "businessAddress": "강원특별자치도 강릉시 사천면 방동길 125",
       "businessPhone": "010-4997-2687",
-      "businessEmail": "0000@naver.com",
-      "businessType": "individual",
+      "businessEmail": "",
+      "businessType": "corporate",
       "businessCategory": "숙박업",
       "eCommerceRegistrationNumber": "",
       "ecommerceRegistrationNumber": ""
@@ -70,7 +70,7 @@
         "id": "ea472d55-8971-4417-90b6-4b09be7afc5e",
         "name": "개별바베큐",
         "description": "프라이빗한 공간에서 여유롭게 즐기는 개별 바베큐 공간입니다.",
-        "usageGuide": "- 숯+그릴 : 30,000원 (1박기준/현장결제)\n※ 사전문의필수\n※ 숯/그릴 개인지참 불가\n※ 숯/그릴은 사전준비되어 있으며, 불만 직접 점화해 이용",
+        "usageGuide": "[개별바베큐]\n- 숯+그릴 : 30,000원 (1박기준/현장결제)\n※ 사전문의필수\n※ 숯/그릴 개인지참 불가\n※ 숯/그릴은 사전준비되어 있으며, 불만 직접 점화해 이용",
         "displayOrder": 0,
         "images": [
           {
@@ -103,7 +103,7 @@
         "id": "622c9624-1884-4f9a-9ae5-6ecabef64427",
         "name": "불멍",
         "description": "따뜻한 불빛과 함께 여유를 즐기는 감성 불멍 공간입니다.",
-        "usageGuide": "- 운영 요금 : 20,000원(1박기준/현장결제)\n- 장작 1망 제공\n※ 우천시 이용불가\n※ 개인 불멍 용품(화롯대, 연료 등) 지참: 불가\n※ 외부 장작 반입: 불가",
+        "usageGuide": "[불멍]\n- 운영 요금 : 20,000원(1박기준/현장결제)\n- 장작 1망 제공\n※ 우천시 이용불가\n※ 개인 불멍 용품(화롯대, 연료 등) 지참: 불가\n※ 외부 장작 반입: 불가",
         "displayOrder": 1,
         "images": [
           {
@@ -291,6 +291,14 @@
     ],
     "refundPolicies": [
       {
+        "refundProcessingDays": 10,
+        "refundRate": 100
+      },
+      {
+        "refundProcessingDays": 9,
+        "refundRate": 90
+      },
+      {
         "refundProcessingDays": 8,
         "refundRate": 80
       },
@@ -325,24 +333,22 @@
       {
         "refundProcessingDays": 0,
         "refundRate": 0
-      },
-      {
-        "refundProcessingDays": 9,
-        "refundRate": 90
       }
     ],
     "refundSettings": {
       "customerRefundNotice": "",
-      "immediateRefundEnabled": false,
-      "immediateRefundTimeLimit": "60"
+      "immediateRefundEnabled": true,
+      "immediateRefundTimeLimit": "60",
+      "immediateRefundMinuteLimit": "10",
+      "sameDayReservationHourLimit": "0"
     },
     "images": [
       {
         "thumbnail": [
           {
-            "id": "443d094a-4aaf-4e1f-ae5d-88b131ecac53",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/1e007377-e6a0-4daa-afff-7c6c71c6addc/thumbnail/1774833978063-howopj0n2j.jpg",
-            "sortOrder": 0,
+            "id": "2331cd62-06df-480b-815a-66e9c9a43550",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/25/Hx1PXrn3k7U4.jpg",
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -350,105 +356,81 @@
         ],
         "exterior": [
           {
-            "id": "f3a7608e-b45b-41ff-b1c2-6c5dfad8b27b",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/1e007377-e6a0-4daa-afff-7c6c71c6addc/exterior/1774833978064-s4jsxvif14.jpg",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "d8a04488-a9b3-4b0c-a531-ecc0fdeea704",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/1e007377-e6a0-4daa-afff-7c6c71c6addc/exterior/1774833978064-vzoskbivgpr.jpg",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "ffcf08a5-f330-4227-b451-617c41fe1d38",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/1e007377-e6a0-4daa-afff-7c6c71c6addc/exterior/1774833978064-ko0v3tbyhr.jpg",
+            "id": "4f5771aa-3a4b-46c9-8d13-ba898cfcc21c",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/25/NktWqy1JsKeB.jpg",
             "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "98aaf63e-13c4-455a-9110-1f4e16d29607",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/1e007377-e6a0-4daa-afff-7c6c71c6addc/exterior/1774833978064-yr1lmfiv25p.jpg",
+            "id": "90812167-fa31-4502-8001-eb01c6ea4a58",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/25/DTSw60yIorQF.jpg",
             "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "6d58f901-fa93-49fe-8e88-5694934f9d47",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/1e007377-e6a0-4daa-afff-7c6c71c6addc/exterior/1774833978065-ho05a8b630v.jpg",
+            "id": "8027ea53-d1a9-4831-b578-49f5cfbfafb9",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/25/mVnReTObs6Li.jpg",
             "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "a083dda3-f99c-4eeb-8283-f5d84cb3bf97",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/1e007377-e6a0-4daa-afff-7c6c71c6addc/exterior/1774833978065-5cczbdbz98x.jpg",
+            "id": "5c6f669c-1be6-4d40-9387-1eba25c6753a",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/25/hKgLNpuwF30r.jpg",
             "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "419d3bdd-868d-458d-b897-6fcffbe18848",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/1e007377-e6a0-4daa-afff-7c6c71c6addc/exterior/1774833978065-gp10ryufg6.jpg",
+            "id": "cf8f3f54-c650-41c7-9cf9-224a8d217f97",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/25/O3APM2V9ySIt.jpg",
             "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "a12de196-41c4-427e-a79f-25a146fe6a95",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/1e007377-e6a0-4daa-afff-7c6c71c6addc/exterior/1774833978065-h0qihjn0fuu.jpg",
+            "id": "b1b781d3-8079-47e9-9ae0-bb651e43de50",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/25/4DKEZwaMrnvS.jpg",
             "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "d5b5d0e2-0c4b-4b8b-b289-017fd1c98615",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/1e007377-e6a0-4daa-afff-7c6c71c6addc/exterior/1774833978065-7lhqf0f7u29.jpg",
+            "id": "0ad310d7-b65e-4143-924c-21d828882c85",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/25/TVZQP5aRY6Wt.jpg",
             "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "9f81f8af-cef2-4827-9ab5-f1b344330d69",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/1e007377-e6a0-4daa-afff-7c6c71c6addc/exterior/1774833978065-jng91zy90g.jpg",
+            "id": "6c007c47-f3e5-4ef8-9dab-40e059aada5c",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/25/Tym9B6naSOQK.jpg",
             "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "f52c75a2-90f4-426f-ad99-e9e578202cfd",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/1e007377-e6a0-4daa-afff-7c6c71c6addc/exterior/1774833978066-17maatrce3w.jpg",
+            "id": "abcbe77d-1332-471c-93e5-c09101f7a41d",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/25/ekWS3TGEuhLb.jpg",
             "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "6f9c44fb-f428-4ec8-8ac3-fd8d10d79633",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/1e007377-e6a0-4daa-afff-7c6c71c6addc/exterior/1774833978066-kt1di4lzhkn.jpg",
+            "id": "4be898ad-73e2-40e1-b563-fce390ae0ad7",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/25/RWqEpPjv2H14.jpg",
             "sortOrder": 11,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "7b07000b-e9ef-4cda-bb33-a7b9c9567088",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/1e007377-e6a0-4daa-afff-7c6c71c6addc/exterior/1774833978066-n0nvxb9l1q.jpg",
-            "sortOrder": 12,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -467,7 +449,7 @@
     {
       "id": "9b2cb98a-de3e-46c9-94d5-280a1c3e1b99",
       "name": "독채(야외수영장,단체,신축)",
-      "description": "독채형, 거실1+침대룸(싱글침대1,퀸침대1)+침대룸(싱글침대1,퀸침대1)+온돌룸(침구세트4)+주방1+화장실3+개별바비큐+개별수영장",
+      "description": "독채형, 거실1+침대룸(싱글침대1,퀸침대1)+침대룸(싱글침대1,퀸침대1)+온돌룸(침구세트4)+주방1+화장실3+개별바비큐+개별수영장\r\n산전망, 38평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,전기밥솥,취사시설/도구,단체,풀빌라,개별바비큐,가스레인지,개별수영장,드라이기,린스,바디워시,샴푸,비데,빔프로젝트,상비약,식탁,정수기,전자레인지,침대방,타월",
       "roomInfo": "독채형, 거실1+침대룸(싱글침대1,퀸침대1)+침대룸(싱글침대1,퀸침대1)+온돌룸(침구세트4)+주방1+화장실3+개별바비큐+개별수영장\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 0세~성인 1인 30,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
@@ -482,44 +464,86 @@
         "kitchen": 1
       },
       "bedTypes": [
-        "퀸 베드",
         "싱글 베드",
-        "온돌",
-        "이불"
+        "퀸 베드",
+        "바닥침구"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 0,
+            "single": 1,
+            "bunkBed": 0,
+            "queen": 1,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        },
+        {
+          "roomIndex": 2,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 0,
+            "single": 1,
+            "bunkBed": 0,
+            "queen": 1,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        },
+        {
+          "roomIndex": 3,
+          "roomKind": "ondol",
+          "bedCount": {
+            "double": 0,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 4
+          }
+        }
+      ],
       "amenities": [
-        "침대",
-        "온돌",
-        "테라스",
-        "무료 WiFi",
-        "스마트 TV",
-        "에어컨",
-        "전자레인지",
-        "헤어드라이어",
-        "가스레인지",
-        "전기밥솥",
-        "조리도구",
-        "식기류",
-        "정수기",
-        "화장실",
-        "비데",
-        "수건",
-        "샴푸",
-        "린스",
-        "바디워시",
-        "빔프로젝터",
-        "풀빌라",
         "구급상자",
-        "금연"
+        "풀빌라",
+        "식탁",
+        "헤어드라이어",
+        "개별수영장",
+        "가스레인지",
+        "개별바비큐",
+        "전기밥솥",
+        "에어컨",
+        "냉장고",
+        "금연",
+        "전자레인지",
+        "정수기",
+        "수건",
+        "침대방",
+        "빔프로젝터",
+        "비데",
+        "샴푸",
+        "바디워시",
+        "린스",
+        "단체",
+        "취사시설/도구",
+        "TV",
+        "남녀공용",
+        "욕실용품"
       ],
       "roomViews": [
         "마운틴뷰"
       ],
       "roomStructures": [
-        "독채",
-        "온돌",
-        "침실분리형"
+        "독채"
       ],
       "status": "active",
       "timeSettings": {
@@ -535,8 +559,210 @@
       },
       "images": [
         {
-          "thumbnail": [ ],
-          "interior": [ ],
+          "thumbnail": [
+            {
+              "id": "28204a45-0c25-4c0f-9213-04de1240df1a",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/25/GMbVvZFTOX0p.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [
+            {
+              "id": "3e05b633-c797-4375-aa30-17f0fc38385b",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/25/Hng89QOiEkfl.jpg",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "9d42eaa7-ba11-4c89-92fe-ac1898eb846f",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/25/bKPqwAgOi6ct.jpg",
+              "sortOrder": 3,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "cb021379-aacb-48df-a633-da102678c5c8",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/25/oGL1XKeI0VO8.jpg",
+              "sortOrder": 4,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "7c9b2208-45a4-4107-ab9b-7ad57cbbbb9e",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/25/GbMcB3yhlt5n.jpg",
+              "sortOrder": 5,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "5f229fb6-5a4b-4d6d-8619-23266c470377",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/25/DCQlM2BObyGq.jpg",
+              "sortOrder": 6,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "77315ef7-3a02-4d35-aa1e-86055b0f88dc",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/25/Rt1prxmeE9w6.jpg",
+              "sortOrder": 7,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "962eb70d-03d4-4a4c-a82e-31d518d17f40",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/25/DSTMyUqoZHsi.jpg",
+              "sortOrder": 8,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "a12664e1-905d-4c5b-89c4-32c418cceb79",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/25/eNya8M62in0Q.jpg",
+              "sortOrder": 9,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "297de772-0faa-4e07-9963-429b89b77c09",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/25/ZReDiAojM6WN.jpg",
+              "sortOrder": 10,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "5dd4b8c5-d05d-4826-a61b-816345c9ce5f",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/25/kRumh1I3Sy0G.jpg",
+              "sortOrder": 11,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "4b68d698-29e8-4b08-9a9c-53a1fd179789",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/25/M7Hp9QaVhoCn.jpg",
+              "sortOrder": 12,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "a91c7d0e-d30e-4ef1-b221-6c6d3c0e4a43",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/25/z02EtsVi34IP.jpg",
+              "sortOrder": 13,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "5c1f1c7f-9472-4d02-8131-b46e6adfd575",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/25/ZPpfAJm27hTq.jpg",
+              "sortOrder": 14,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "3b7d0180-ed64-481a-9bf8-87bb71143582",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/25/OXAf54JE2RVp.jpg",
+              "sortOrder": 15,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "7fefc7a0-e206-4b14-a9d3-fb2fdd632272",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/25/aV6ld31kBWs0.jpg",
+              "sortOrder": 16,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "f4740119-17e7-4665-bf23-e6be8e509067",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/25/7ySVBZhWolAf.jpg",
+              "sortOrder": 17,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "6c83e515-4e36-4772-8fc3-3aec5e61fdc1",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/25/bWQAnjBvth4J.jpg",
+              "sortOrder": 18,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "fd26b681-41bc-4fbb-ad28-afece73078e3",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/25/jcVCdmieu1Of.jpg",
+              "sortOrder": 19,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "64cbd41b-ebe4-4848-a88b-45cb908875a6",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/25/zwKm4xTL7YbM.jpg",
+              "sortOrder": 20,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "47a2d244-f96b-4ff1-8e0c-13eaf2c43190",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/25/wgKLUh9eVCcS.jpg",
+              "sortOrder": 21,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "7e8d462f-e400-4215-8f00-beba629899cf",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/25/JoRaHkrYjQlN.jpg",
+              "sortOrder": 22,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "ae9e2411-8bfd-4720-a225-f296f6b205c2",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/25/FREJXsa63egS.jpg",
+              "sortOrder": 23,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "1a566ba9-be75-4b94-a06f-cfb3f4112eee",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/25/gVpHRdyG0AjC.jpg",
+              "sortOrder": 24,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "7fd1bcb0-8085-46dc-a94f-f549d35b28cf",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/25/kHOIDK6MgfLz.jpg",
+              "sortOrder": 25,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
           "exterior": [ ]
         }
       ],
@@ -563,7 +789,9 @@
     "seo": {
       "title": "강릉 우진풀빌라",
       "description": "강릉에서 프라이빗하게 즐기는 단독 풀빌라",
-      "keywords": "강릉풀빌라,강릉단독풀빌라,강릉프라이빗숙소,강릉독채풀빌라,강릉여행숙소"
+      "keywords": "강릉풀빌라,강릉단독풀빌라,강릉프라이빗숙소,강릉독채풀빌라,강릉여행숙소",
+      "naverSiteVerification": "",
+      "googleSiteVerification": ""
     },
     "socialLinks": {
       "facebook": null,
@@ -580,89 +808,89 @@
                 "title": "Your Private Moment in Gangneung",
                 "images": [
                   {
-                    "id": "1a930af4-6e0a-4175-99de-0cb8ce74467b",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_hero/1774404154652-qowe03kpw6.jpg",
+                    "id": "a19dcd20-7e50-49f0-91c6-a44735217490",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_hero/1787808722257-s471l9gt4f.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "d7c1d8bd-31a7-4bb6-b6d2-03b6bbf6b3d3",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_hero/1777355422745-n64mow0ql4.jpg",
+                    "id": "bb49b1f2-c6d2-4288-8e66-4d5da4864d29",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_hero/1787808722258-ego5uyc7e2.jpg",
                     "sortOrder": 1,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "7ae0a9cb-e421-4612-a1af-a5cf51d15c7a",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_hero/1774404154652-3eil681xcz.jpg",
+                    "id": "a90d738a-5d20-45b0-b5c3-e711bdb08480",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_hero/1787808722259-q45t7fs49e.jpg",
                     "sortOrder": 2,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "171a3349-2a1e-417e-a5dc-60d2a86de91f",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_hero/1774404154652-ev3wxel4hh.jpg",
+                    "id": "4508b3e1-b042-4b9f-a7a7-7af223204ff8",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_hero/1787808722259-5bp4iyr4q4.jpg",
                     "sortOrder": 3,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "62a26060-cbd8-4cea-809e-3a697e1defd6",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_hero/1774404154652-faxkz5ihac8.jpg",
+                    "id": "856b6762-9adb-4f2d-8a95-e07551b46406",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_hero/1787808722261-oohzm3ptus.jpg",
                     "sortOrder": 4,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "17536ae6-bbcb-404c-9887-d2685ed72874",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_hero/1774488210715-38e66m1gvah.jpg",
+                    "id": "f507bcf3-c316-4277-845f-b59a360099b0",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_hero/1787808722262-qzta97ofxj.jpg",
                     "sortOrder": 5,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "85d39403-7183-4199-b896-8a4e656d14de",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_hero/1774404154652-48xfd09hbfa.jpg",
+                    "id": "0bc50a50-7f20-4d17-8cb2-0effb0846aef",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_hero/1787808722263-va4g3ife8f.jpg",
                     "sortOrder": 6,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "f69cc307-c1bf-4f9d-b106-4fecceabb328",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_hero/1774404154652-oy8oxf45edk.jpg",
+                    "id": "4b3817e3-0f65-4acd-8bdc-b306caf388b3",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_hero/1787808722264-h60veiguq5.jpg",
                     "sortOrder": 7,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "3b2c7416-975d-4b57-9eb1-bfaa1a9f7172",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_hero/1777355422745-dy5dgfsbz5.jpg",
+                    "id": "028d0791-dcf3-41d9-aba5-961177eb2721",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_hero/1787808722267-huzg2e9mfh.jpg",
                     "sortOrder": 8,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "bc724fde-497d-4c1f-b5c2-246892fd7210",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_hero/1774404757712-pqf3leqbye.jpg",
-                    "sortOrder": 8,
-                    "description": "",
-                    "isSelected": true,
-                    "blockId": null
-                  },
-                  {
-                    "id": "afcd04be-9545-4806-9393-f910687d9bf7",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_hero/1774404154652-rodubujdkjs.jpg",
+                    "id": "789381a3-f664-4b1b-af37-99221a88acd5",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_hero/1787808722267-apzxi16f9k.jpg",
                     "sortOrder": 9,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "95ab0ff4-c62d-417a-9fc7-849aee505f46",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_hero/1787808722266-cglnp64xbb.jpg",
+                    "sortOrder": 10,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -676,8 +904,8 @@
                 "title": " ",
                 "images": [
                   {
-                    "id": "6f5c6413-7435-4f77-8a79-081934c1c34c",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_closing/1774514228540-kckkhgt5y6d.jpg",
+                    "id": "b3d72fdd-80e6-4d0a-87bd-6d152051b84b",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_closing/1787808722272-qjxkzgk2bb.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
@@ -692,32 +920,32 @@
                 "title": "단독 독채 풀빌라",
                 "images": [
                   {
-                    "id": "08fa81b1-f915-4a6a-8c13-afd40651870f",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_essence/1774404598404-2mftvdto15v.jpg",
+                    "id": "08c14a2e-67b2-4559-b42a-742dfb019f09",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_essence/1787808722266-7zom26i6cf.jpg",
                     "sortOrder": 0,
-                    "description": "프라이빗하게 즐기는 단독 독채 풀빌라\n오직 우리만을 위한 여유로운 쉼\n방해 없이 머무는 편안한 휴식 공간",
+                    "description": "단독 독채 풀빌라\n프라이빗한 감성 숙소",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "16836f00-3ded-40cc-9e2c-4d6c82392865",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_essence/1774488453018-tpvdup3v8cf.jpg",
+                    "id": "05bc3b98-9cca-4051-a76c-8eaec241128f",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_essence/1787808722269-ws0ecyic1z.jpg",
                     "sortOrder": 1,
-                    "description": "2025년 8월 새롭게 오픈한 신축 펜션\n깨끗하고 쾌적하게 머무는 편안한 공간\n깔끔한 인테리어가 돋보이는 감성적인 분위기",
+                    "description": "2025년 8월 새롭게 오픈한 신축 펜션\n깨끗하고 쾌적하게 머무는 편안한 공간",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "4734cc1d-ed69-4580-a20f-a9c6c43475e8",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_essence/1774485735315-9t7w3urbq7.jpg",
+                    "id": "e4e6b3b1-287d-4dd4-b64f-0e69b2623b08",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_essence/1787808722269-ei27yyu7t4.jpg",
                     "sortOrder": 2,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "14b46f5f-c357-47aa-abf5-3b027fd453e4",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_essence/1774485735315-bysnmkth8ut.jpg",
+                    "id": "96085dc9-a675-4395-8376-6e44e76df48c",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/index_essence/1787808722269-wym51y585f.jpg",
                     "sortOrder": 3,
                     "description": "",
                     "isSelected": true,
@@ -998,6 +1226,12 @@
               }
             }
           ]
+        },
+        "layoutMap": {
+          "sections": [ ]
+        },
+        "nearbyAttractions": {
+          "sections": [ ]
         }
       },
       "theme": {
@@ -1041,8 +1275,8 @@
             "category": "property_thumbnail"
           },
           {
-            "id": "c03db38c-bbcf-49bc-8e6b-9cc51db61407",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/property_exterior/1774403779236-b2kr8y3nzwc.jpg",
+            "id": "6f5d5cfd-47f2-4544-add6-cb2e995bb781",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/property_exterior/1787808722270-o68ocxy9ub.jpg",
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
@@ -1050,8 +1284,8 @@
             "category": "property_exterior"
           },
           {
-            "id": "7e5fcaf1-f30d-431f-8209-9eaa5b88a3fe",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/property_exterior/1774403779236-wibjs378kzm.jpg",
+            "id": "254563b9-8934-44c7-9401-d62284c8d3a7",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/property_exterior/1787808722272-ojetrgwz87.jpg",
             "sortOrder": 1,
             "description": "",
             "isSelected": true,
@@ -1059,8 +1293,8 @@
             "category": "property_exterior"
           },
           {
-            "id": "0297fd05-18bc-4980-bb45-dd25809f08d1",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/property_exterior/1774403779236-6ci1pkv6qd4.jpg",
+            "id": "b36275d2-e322-4c1c-992c-26f11441a32c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/property_exterior/1787808722275-g6u8yg2ond.jpg",
             "sortOrder": 2,
             "description": "",
             "isSelected": true,
@@ -1068,8 +1302,8 @@
             "category": "property_exterior"
           },
           {
-            "id": "5830166b-9b9b-4dab-a5f1-d62c06df7f96",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/property_exterior/1774403779236-2hhv6vcskum.jpg",
+            "id": "84fad7f9-b695-4a0f-83bc-bd50408058f2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/property_exterior/1787808722273-0t5z8ixym7.jpg",
             "sortOrder": 3,
             "description": "",
             "isSelected": true,
@@ -1077,8 +1311,8 @@
             "category": "property_exterior"
           },
           {
-            "id": "7a0d86a3-4a3a-49b9-b80f-f9f2f9bf4302",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/property_exterior/1774403779236-trq9rj2sth.jpg",
+            "id": "c482b39a-d34e-462e-8782-892350479ccf",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/property_exterior/1787808722276-u6t46o5z6e.jpg",
             "sortOrder": 4,
             "description": "",
             "isSelected": true,
@@ -1086,8 +1320,8 @@
             "category": "property_exterior"
           },
           {
-            "id": "054be7ed-c608-46f2-be10-9ce1b4ebebe6",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/property_exterior/1774403779237-zfd1h84eso.jpg",
+            "id": "90a5bd7c-7a2f-4fcb-8f61-89710a53559f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/property_exterior/1787808722277-ckvt97jweu.jpg",
             "sortOrder": 5,
             "description": "",
             "isSelected": true,
@@ -1095,8 +1329,8 @@
             "category": "property_exterior"
           },
           {
-            "id": "2c954d97-5c94-43aa-a764-90749c5c5b16",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/property_exterior/1774403779237-5y4flal3qg9.jpg",
+            "id": "c2f357f5-d3da-4cef-8335-2d357bc59098",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/property_exterior/1787808722279-xb7zlshq9j.jpg",
             "sortOrder": 6,
             "description": "",
             "isSelected": true,
@@ -1104,54 +1338,9 @@
             "category": "property_exterior"
           },
           {
-            "id": "cebe1aa6-d9e2-4c98-ba8e-9bebefdf8c2e",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/property_exterior/1774403779237-8mjxbvpbgbr.jpg",
+            "id": "b292967f-9a6e-4d4b-8630-f1b5bc822ad5",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/property_exterior/1787808722278-hufsx4n74s.jpg",
             "sortOrder": 7,
-            "description": "",
-            "isSelected": true,
-            "blockId": null,
-            "category": "property_exterior"
-          },
-          {
-            "id": "7bc65a18-5ccc-4881-a4ed-c23b3fede9fa",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/property_exterior/1774403779237-obqkmz1585e.jpg",
-            "sortOrder": 8,
-            "description": "",
-            "isSelected": true,
-            "blockId": null,
-            "category": "property_exterior"
-          },
-          {
-            "id": "f84f21de-95f4-4f2d-b249-570d8b91e0cf",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/property_exterior/1774403779237-n5elurct4h.jpg",
-            "sortOrder": 9,
-            "description": "",
-            "isSelected": true,
-            "blockId": null,
-            "category": "property_exterior"
-          },
-          {
-            "id": "e0d48a0f-8784-40b8-9d80-f01152d9fd81",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/property_exterior/1774403779237-xpin0irzi5.jpg",
-            "sortOrder": 10,
-            "description": "",
-            "isSelected": true,
-            "blockId": null,
-            "category": "property_exterior"
-          },
-          {
-            "id": "3fa5a5d6-44f5-479d-9a4b-52d66d4aa862",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/property_exterior/1774403779237-w6z7nciz9rs.jpg",
-            "sortOrder": 11,
-            "description": "",
-            "isSelected": true,
-            "blockId": null,
-            "category": "property_exterior"
-          },
-          {
-            "id": "7541c437-f380-4b18-8ad3-fd26d3d25843",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/78b30ee6-f394-4fca-8a9c-f486a84643d6/property_exterior/1774403779237-oyt5yn3zr5b.jpg",
-            "sortOrder": 12,
             "description": "",
             "isSelected": true,
             "blockId": null,
